@@ -1,0 +1,15 @@
+
+*.cmd
+/node_modules
+node_modules/.bin/in-install
+node_modules/.bin/esparse.cmd
+node_modules/*
+*.cmd
+node_modules/.bin/autoprefixer
+node_modules/.bin/browserslist
+*.cmd
+node_modules/.bin/in-publish
+*.cmd
+*.cmd
+*.cmd
+node_modules/.bin/esvalidate
